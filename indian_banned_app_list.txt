@@ -1,1 +1,37 @@
+Shareit###com.lenovo.anyshare.gps
+UC Browser###com.UCMobile.intl
+Baidu map###com.baidu.BaiduMap
+Shein###com.zzkko
+Clash of Kings###com.hcg.cok.gp
+DU battery saver###com.limsky.ramcleaner
+Likee###video.like
+YouCam makeup###com.cyberlink.youcammakeup
+Mi Community###com.mi.global.bbs
+APUS Browser###com.apusapps.browser
+ROMWE###com.romwe
+Club Factory###club.fromfactory
+Newsdog###com.newsdog
+Beutry Plus###com.commsource.beautyplus
 WeChat###com.tencent.mm
+UC News###com.urbancultur.news
+QQ Mail###com.tencent.androidqqmail
+Weibo###com.weico.international
+Xender###cn.xender
+Bigo Live###sg.bigo.live
+SelfieCity###com.meitu.wheecam
+Mail Master###com.netease.mail
+Mi Video Call – Xiaomi###com.miui.videoplayer
+WeSync###com.jpro.wesync
+ES File Explorer###com.File.Manager.Filemanager
+Vigo Video###com.ss.android.ugc.boom
+DU Recorder###com.DUrecorder.screenrecorder.videorecorde
+Vault- Hide###com.netqin.ps
+DU Cleaner###com.DU.Cleaner.antivirus.cleanbooster
+Hago Play With New Friends###com.yy.hiyo
+Cam Scanner###com.intsig.camscanner
+Photo Wonder###com.yubitu.android.YubiCollage
+QQ Player###com.playhdvideo.myvideoq
+Sweet Selfie###com.cam001.selfie
+U Video###com.kwai.global.video.social.kwaigo
+V fly Status Video###com.ai.bfly
+Mobile Legends###com.mobile.legends
