@@ -35,3 +35,4 @@ Sweet Selfie###com.cam001.selfie
 U Video###com.kwai.global.video.social.kwaigo
 V fly Status Video###com.ai.bfly
 Mobile Legends###com.mobile.legends
+TikTok###com.ss.android.ugc.trill
