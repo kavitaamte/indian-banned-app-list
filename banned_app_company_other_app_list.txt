@@ -1,1 +1,72 @@
 SHAREit Lite###shareit.lite
+Sports, Movie, Comedy& News-Best Videos in WATCHit###com.ushareit.watchit
+UC Mini###com.uc.browser.en
+UC Cricket###com.CricChat.intl
+Clash of Kings:The West###com.hcg.ctw.gp
+Clash of Queens: Light or Darkness###com.elex.coq.gp
+Zombie World SLG 3D : last day of survival###com.zw.zombieworld.gp
+Heroes War###com.hcg.tos.gp
+DU Caller###com.DUcalleradress.trackerlocation.callerid
+DU Antivirus###com.DU.antivirus.cleaner.boosterpro
+BIGO Live Lite###sg.bigo.live.lite
+YouCam###com.cyberlink.youperfect
+ShareSave###com.mi.global.jointly
+Mi Store###com.mi.global.shop
+Orbit Speed Booster, Antivirus, Phone Cleaner###com.orbit.speedbooster
+VX-VPN - X-VPN & Wifi Security Unblock proxy, free###com.vpn.x
+AirBrush###com.magicv.airbrush
+MakeupPlus###com.meitu.makeup
+Meitu###com.mt.mtxx.mtxx
+BeautyCam###com.meitu.meiyancamera
+O2Cam###com.meitu.oxygen
+AirVid###com.meitu.airvid
+PlusMe Camera###com.meitu.beautyplusme
+Meipai###com.meitu.meipaimv
+Pomelo###com.beautyplus.pomelo.filters.photo
+Face Factory###com.meitu.facefactory
+AirBrush ###com.meitu.airbrush.vivo
+美图遥控器###com.meitu.mobile.meituautodyne
+BOXxCAM###com.meitu.boxxcam
+Jesus Loves You Vision###com.blue9tech.jesuslovesyouvision
+Planetvideo - 星球视频###com.weibo.planetvideo
+喵呜视频###com.w.video
+LOFTER-网易旗下兴趣社交App，让兴趣，更有趣###com.lofter.android
+NetEase Mail###com.netease.mobimail
+BUFF163###com.netease.buff163
+Video Locker###org.videoplayer.videolocker
+VPN Ad Free###com.vpnmaster.vpnfree
+Home Workout for Men & Women - Bodybuilding###com.Home.Workout.For.Women
+video Player###org.videoplayer.equalizer.player
+Gallery Pro###org.Gallery.Pro
+Gallery###org.Gallery
+Calculator###org.calculator
+Music Player - MP3 Player###com.Musicplayer.player.mp3player
+Video Motion Effect - Fast,Slow & Reverse Effect###com.editor.video.motion.fast.slow.reverse
+World Clock###com.worldclock.timeclock.multiple.clock
+Music Player 2019###org.Music.Player
+Vigo Video Live Photo###com.ss.android.ugc.boom.livewallpaper
+Vault-Hide Pics & Videos, Russian language pack###com.netqin.ps.language.russian
+Security Plugin for Vault - Hide photos and videos###com.ps.vaultprotector
+HAGO Lite###com.yy.hagolite
+YouFace Makeup - Makeover Studio###com.yubitu.android.YouFace
+BestieCam - Selfie Beauty Makeover###com.yubitu.android.BestieCam
+Video­leap Photo Editor & Photo Effects###com.editorphotohd.editingforfree
+Free Gems Calculator For Brawl BS - Tips 2k20###com.coinses.freecbrawls.gemses
+Sweet Snap Face Cam - Selfie Edit & Photo Filters###sweet.facecamera.selfie
+Sweet Selfie Camera - Photo Editor & Beauty Snap###sweet.selfie.lite
+StoryChic – Insta Story Editor for Instagram###instagramstory.maker.unfold
+Face camera - live filter, Selfie photo###sweet.snapface.facefilter
+Beauty Camera - Selfie Camera & Photo Editor###photo.editor.filter.camera
+Video Maker Editor & MV Video Master - VidArt###videoslideshow.photoedit.videocutter
+StoryVibe - Parallax & Vintage Frame Video Maker###ins.story.unfold
+Sweet Camera - Selfie Camera & Photo Editor###best.sweet.selfie
+Candy selfie -beauty camera, sweet selfie###com.cam001.selfie361
+Mint - Selfie Face & Snap Filters, Photo Editor###beauty.selfie.camera.youcam
+Candy Selfie Lite -beauty camera, beauty selfie###sweet.selfie.classic
+Mojito - Story Art Maker, Story editor###instagram.story.art.collage
+Sweet Candy Cam - selfie editor & beauty camera###sweet.candy.camera
+Sweet Selfie Pro - No Ads, Unique Filter & Sticker###facecamera.filter.photoeditor
+Sweet Camera Pro - No Ads, Unique Filter & Sticker###photofilter.facecamera.snapchat
+Mobile Legends: Adventure###com.moonton.mobilehero
+Mobile Legends: Pocket###com.miya.mobile
+Mi Remote controller - for TV, STB, AC and more###com.duokan.phone.remotecontroller
