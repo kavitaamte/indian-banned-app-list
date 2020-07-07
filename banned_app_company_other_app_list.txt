@@ -70,3 +70,4 @@ Sweet Camera Pro - No Ads, Unique Filter & Sticker###photofilter.facecamera.snap
 Mobile Legends: Adventure###com.moonton.mobilehero
 Mobile Legends: Pocket###com.miya.mobile
 Mi Remote controller - for TV, STB, AC and more###com.duokan.phone.remotecontroller
+UC Browser Turbo###com.ucturbo
