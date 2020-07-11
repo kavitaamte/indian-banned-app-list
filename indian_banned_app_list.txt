@@ -66,3 +66,28 @@ Dummy Name###com.file.recovefiles
 Dummy Name###com.LPlocker.lockapps
 Dummy Name###com.remindme.alram
 Dummy Name###com.training.memorygame
+Super Wallpapers Flashlight###com.wallpaper.flashlight.compass
+Padenatef###com.sun.newjbq.beijing.ten
+Wallpaper Level###com.liapp.level
+Contour level wallpaper###com.communication.walllevel
+iPlayer & iWallpaper###com.ldl.videoedit.iwallpapers
+Video Maker###com.androidapp.videosedit.v
+Color Wallpapers###com.play.ljj.wallpapercomapss
+Pedometer###com.baidu.news.pedometer
+Powerful Flashlight###com.meituanybw.flash
+Super Bright Flashlight###com.tqyapp.sb.flashlight
+Super Flashlight###com.superapp.xincheng
+Solitaire Game###com.game.tqsolitaire
+Accurate scanning of Meade###com.tqyapp.qr
+Classic card game###com.card.solitairenew
+Junk file cleaning###com.xdapp.cleaning
+Synthetic Z###com.tqygame.synthetic
+File Manager###com.smt.filemanager
+Composite Z###com.game.hcz
+Screenshot Capture###com.tianqiyang.lww.screenedit
+Daily Horoscope Wallpapers###com.tianqiyang.lww.constellation
+Wuxia Reader###com.wuxia.reader
+Plus Weather###com.plus.android.weather
+Anime Live Wallpaper###com.tqyapp.chuangtai
+iHealth Step Counter###com.tiantian.lang.tencent
+com.tgyapp.fiction###com.tgyapp.fiction
