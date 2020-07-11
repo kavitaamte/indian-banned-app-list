@@ -56,3 +56,13 @@ U Video###com.kwai.global.video.social.kwaigo
 V fly Status Video###com.ai.bfly
 Mobile Legends###com.mobile.legends
 DU Privacy###com.szipcs.duprivacylock
+Dummy Name###com.imagecompress.android
+Dummy Name###com.contact.withme.texts
+Dummy Name###com.hmvoice.friendsms
+Dummy Name###com.relax.relaxation.androidsms
+Dummy Name###com.cheery.message.sendsms (two different instances)
+Dummy Name###com.peason.lovinglovemessage
+Dummy Name###com.file.recovefiles
+Dummy Name###com.LPlocker.lockapps
+Dummy Name###com.remindme.alram
+Dummy Name###com.training.memorygame
